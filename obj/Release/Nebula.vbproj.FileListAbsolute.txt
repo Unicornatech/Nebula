@@ -1,0 +1,12 @@
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Release\Nebula.exe.config
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Release\Nebula.exe
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Release\Nebula.pdb
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Release\Nebula.xml
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.Form1.resources
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.Resources.resources
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.vbproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.vbproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.exe
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.xml
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.pdb
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Release\Nebula.vbproj.AssemblyReference.cache

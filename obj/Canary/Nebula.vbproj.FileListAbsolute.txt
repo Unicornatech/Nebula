@@ -1,0 +1,7 @@
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Canary\Nebula.exe.config
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\bin\Canary\Nebula.exe
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Canary\Nebula.Form1.resources
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Canary\Nebula.Resources.resources
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Canary\Nebula.vbproj.GenerateResource.cache
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Canary\Nebula.vbproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\Nebula Source Code\Nebula\obj\Canary\Nebula.exe
