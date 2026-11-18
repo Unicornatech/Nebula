@@ -1,0 +1,12 @@
+C:\Users\Homemade\Desktop\Nebula26\bin\Release\Nebula.exe.config
+C:\Users\Homemade\Desktop\Nebula26\bin\Release\Nebula.exe
+C:\Users\Homemade\Desktop\Nebula26\bin\Release\Nebula.pdb
+C:\Users\Homemade\Desktop\Nebula26\bin\Release\Nebula.xml
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.AboutBox1.resources
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.Form1.resources
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.Resources.resources
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula26.vbproj.GenerateResource.cache
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula26.vbproj.CoreCompileInputs.cache
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.exe
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.xml
+C:\Users\Homemade\Desktop\Nebula26\obj\Release\Nebula.pdb
